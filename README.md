@@ -1,10 +1,7 @@
 # WeatherApp-Project
-This app develop to use java language & OpenWeatherMap API.
+"This app is developed using the Java language and the OpenWeatherMap API."
 
 https://openweathermap.org/api
 
-This OpenWeatherMap API's provides real time data.
-Realtime Wether request to used this API.
-Search to get weather details be useing location name.
-Any Location Weather can be see this APP.
-Include API is free version.
+● Developed a Jakarta EE based web application using Java, Apache Tomcat, and OpenWeatherMap API to provide real-time weather data with a user-friendly interface.
+● Features included location-based weather search and real-time data for temperature, humidity, and wind speed.
